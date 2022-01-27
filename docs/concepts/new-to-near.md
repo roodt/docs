@@ -7,7 +7,7 @@ sidebar_label: New to NEAR?
 Welcome! This page is your map for getting to know the NEAR platform.
 
 If you have questions along the way, join our community on [Discord](http://near.chat/) and reach out! We're here to help.
-
+jhh
 ## What is NEAR? {#what-is-near}
 
 NEAR Protocol ("NEAR" hereafter) is a decentralized development platform where developers can host serverless applications and smart contracts that easily connect to "open finance" [1] networks and benefit from an ecosystem of "open web" [2] components.
